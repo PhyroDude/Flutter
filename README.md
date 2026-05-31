@@ -1,17 +1,8 @@
-# desarrollo_con_flutter
+# Implementación de una interfaz gráfica para el usuario
+Se añade la interfaz de usuario para un catálogo de fotografías, esta puede adaptarse a la resolución del dispositivo en la que el usuario está haciendo uso de la aplicación. Las fotografías son aleatorias.
+No SE IMPLEMENTA FUNCIONALIDAD AÚN
+<img width="1272" height="763" alt="Flutter1" src="https://github.com/user-attachments/assets/a83f0695-177a-45d6-8753-a5b31df009e5" />
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Desarrolloo de funcionalidad para los botones "Ver detalle"
+Se codificó el agregar una lógica al dar clic en ver detalle, este despliega información adicional a la fotografía así como el uso de un formulario para rescatar la intención de la mima.
+<img width="568" height="931" alt="Funcion" src="https://github.com/user-attachments/assets/067c741c-dc99-4189-a17a-15140e5f07c0" />
